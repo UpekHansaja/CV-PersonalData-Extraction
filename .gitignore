@@ -19,6 +19,12 @@ downloads/
 .eggs/
 lib/
 
+# CVs
+*.pdf
+*.docx
+*.doc
+
+
 # CSV files (extracted data)
 *.csv
 extracted_data.csv
