@@ -18,6 +18,11 @@ downloads/
 # Compiled source #
 .eggs/
 lib/
+
+# CSV files (extracted data)
+*.csv
+extracted_data.csv
+Previously-Extracted/
 lib64/
 parts/
 sdist/
